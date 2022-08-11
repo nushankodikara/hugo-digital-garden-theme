@@ -11,6 +11,7 @@ copyright = "Nigalya Ponya ©"
   description = "Red panda living in the eastern Himalayas."
   initials = "NP"
   googleAnalytics = ""
+  quote= "A Floating Quote"
 
   [[params.social]]
     name = "Twitter"
